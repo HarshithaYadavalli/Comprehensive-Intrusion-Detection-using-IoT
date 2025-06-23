@@ -26,15 +26,24 @@ spond to intrusion threats in real time. The camera supports live monitoring and
 
  # Hardware Components Used:
   Raspberry Pi 3 Model B+
+  
  PIR (Passive Infrared) Sensor (HC-SR501)
+ 
  Light Dependent Resistor (LDR) Sensor (GL5528)
+ 
  Camera Module
+ 
  LED Indicator
+ 
  Buzzer (5V DC Active Buzzer)
 
  # Software Modules Used:
  Sensor Initialization Module
+ 
  Surveillance Control Module
+ 
  Alert Management Module
+ 
  Notification and Logging Module
+ 
  Auto Recovery Module
