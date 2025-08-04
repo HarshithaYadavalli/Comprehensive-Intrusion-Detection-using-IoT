@@ -47,3 +47,7 @@ spond to intrusion threats in real time. The camera supports live monitoring and
  Notification and Logging Module
  
  Auto Recovery Module
+
+
+<img width="1273" height="1600" alt="hardwareconnections (2)" src="https://github.com/user-attachments/assets/b8d66e24-bebe-4341-9ab6-897de458c237" />
+
